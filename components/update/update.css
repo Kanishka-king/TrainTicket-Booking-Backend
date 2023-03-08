@@ -1,0 +1,96 @@
+.updatecs{
+    background-image: url('https://th.bing.com/th/id/OIP.W9LL1kbf-95E9NWywLKVlAHaE7?pid=ImgDet&rs=1');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    justify-content: center;
+    display: flex;
+}
+form{
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 40px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 40px;
+    
+
+}
+.design{
+    margin-left: 30px;
+    margin-top: 30px;
+    padding-top: 10px;
+    border: none;
+    border-radius: 6px;
+    padding-bottom: 10px;
+}
+.id{
+    margin-left: 110px;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 6px;
+
+}
+.un{
+    margin-left: 50px;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 6px;
+}
+.em{
+    margin-left: 50px;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 6px;
+}
+.mb{
+    margin-left: 10px;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 6px;
+}
+.tr{
+    margin-left: 25px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border: none;
+    border-radius: 6px;
+}
+.up{
+    padding: 10px;
+    background-color: green;
+    color: white;
+    border: none;
+    width: 50%;
+    margin: 50px;
+    margin-left: 50px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-bottom: 30px;
+    cursor: pointer;
+
+}
+
+.up:hover{
+    background-color: pink;
+
+}
+
+.amt span{
+    float: right;
+    padding-right: 78px;
+    color: green;
+
+
+}

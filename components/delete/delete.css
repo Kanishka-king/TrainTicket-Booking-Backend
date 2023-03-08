@@ -1,0 +1,32 @@
+.delbg{
+    background-image: url('https://th.bing.com/th/id/OIP.ensiLtlsMoQxpqIoO-IyYgHaEo?pid=ImgDet&rs=1');
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.bud{
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    width: 20%;
+    margin: 50px;
+    margin-left: 50px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-bottom: 30px;
+    cursor: pointer;
+
+}
+.form-control1{
+    width: 30%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 8px;
+}
+.bud:hover{
+    background-color: #00c278;
+}

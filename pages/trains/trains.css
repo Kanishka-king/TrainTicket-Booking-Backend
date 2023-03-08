@@ -1,0 +1,25 @@
+.passengerWrapper{
+   
+    top: 300px;
+   
+    padding-left: 400px;
+    padding-bottom: 500px;
+    background-image: url('https://media.istockphoto.com/id/547224292/photo/blue-water-wave-and-bubbles-to-clean-drinking-water.jpg?b=1&s=170667a&w=0&k=20&c=AO8CmH0Q-fPyE-zVXrTOkGkDtv5ob60xu3tMZEC7fmc=');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size: 100% 100%;
+    color: green;
+    font-size: large;
+    padding-top: 70px;
+
+
+
+}
+.passengerWrapper span{
+    color: blue;
+    padding-left: 5px;
+   
+}
+.passengerWrapper h3{
+    padding-left: 200px;
+}
